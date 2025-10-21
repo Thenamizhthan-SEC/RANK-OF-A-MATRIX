@@ -11,12 +11,10 @@ To write a python program to find the rank of a matrix
 ### Step 4: Print the result
 ## Program:
 ```PYTHON
-## Developed by:
-## Register number:
-import numpy as np
-a = np.array([[1, 2, 3], [3, 6, 9]])
-b = np.linalg.matrix_rank(a)
-print(b)
+## Developed by: V THENAMIZHTHAN
+## Register number: 25003780
+<img width="791" height="357" alt="UNIT 1 EXP(2)" src="https://github.com/user-attachments/assets/8eb6b102-4e07-454c-8c69-06017d402c9f" />
+
 ```
 ## Output:
 ![image](https://github.com/user-attachments/assets/9241256a-9b36-4eef-a6e3-221f7ebeb0be)
